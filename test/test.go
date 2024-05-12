@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	set "github.com/sef-comp/go-set"
+	set "github.com/sef-computin/go-set"
 )
 
 func main() {
